@@ -1,1 +1,53 @@
-/* INSPO- Hunter Isaacson */
+body {
+    font-family: "Slackey", sans-serif;;
+    background-color: #000000;
+}
+
+header .cities-served {
+    letter-spacing: 1px;
+    color: rgb(135, 135, 255);
+}
+
+.cities-served img {
+    width: 4%;
+}
+
+/* Hero Section */
+.title img {
+    width: 70%;
+    border-radius: 12px;
+}
+
+.subtitle p {
+    letter-spacing: 1px;
+    font-size: x-large;
+    color: rgba(245, 245, 220, 0.859);
+}
+
+/* Simple Steps! */
+
+.steps {
+    border-top: 2px solid white;
+}
+
+.stepsRow {
+    padding-top: 4%;
+}
+
+.steps h2 {
+    color: blueviolet;
+}
+
+.steps p {
+    color: beige;
+    letter-spacing: 1px;
+}
+
+.steps img {
+    width: 50%;
+
+}
+
+.permit p {
+    color: rgb(255, 117, 66);
+}
