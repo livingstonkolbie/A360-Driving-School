@@ -16,6 +16,7 @@ header .cities-served {
 .title img {
     width: 70%;
     border-radius: 12px;
+    box-shadow: 0px 0px 19px 2px grey;
 }
 
 .subtitle p {
