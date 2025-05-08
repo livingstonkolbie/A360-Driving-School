@@ -2,8 +2,34 @@ body {
     font-family: "Slackey", sans-serif;;
     background-color: #000000;
 }
-/* Top Bar */
-header .cities-served {
+
+
+
+/* Top Bar Desktop */
+
+.topBarDesktop a {
+    text-decoration: none;
+}
+
+.igIcon {
+    width: 15%;
+    float: right;
+}
+
+.mapIcon {
+    width: 20%;
+}
+
+.onlineCourseIcon {
+    width: 15%;
+}
+
+/* Top Bar Mobile */
+
+
+
+/* Cities Served */
+.cities-served {
     letter-spacing: 1px;
     color: rgb(135, 135, 255);
 }
@@ -12,22 +38,18 @@ header .cities-served {
     width: 4%;
 }
 
-.socialMedia img {
-    width: 20%;
-}
-
 
 
 /* Hero Section */
 .title img {
-    width: 70%;
+    width: 100%;
     border-radius: 12px;
     box-shadow: 0px 0px 19px 2px grey;
 }
 
 .subtitle p {
     letter-spacing: 1px;
-    font-size: x-large;
+    font-size: medium;
     color: rgba(245, 245, 220, 0.859);
 }
 
@@ -61,20 +83,7 @@ header .cities-served {
 }
 
 
-/* Maps */
-.tools {
-    border-top: 2px solid white;
-}
-
-.tools h2 {
-    color: blueviolet;
-}
-
-.tools p {
+/* What's Needed Page*/
+.temp {
     color: beige;
-    letter-spacing: 1px;
-}
-
-.toolsRow {
-    padding-top: 4%;
 }
