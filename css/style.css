@@ -4,8 +4,10 @@ body {
 }
 
 
-
 /* Top Bar Desktop */
+
+
+/* Top Bar Mobile */
 
 .topBarDesktop a {
     text-decoration: none;
@@ -24,12 +26,10 @@ body {
     width: 15%;
 }
 
-/* Top Bar Mobile */
-
-
 
 /* Cities Served */
 .cities-served {
+    font-size: smaller;
     letter-spacing: 1px;
     color: rgb(135, 135, 255);
 }
@@ -84,6 +84,12 @@ body {
 
 
 /* What's Needed Page*/
+
+.homeIcon {
+    width: 15%;
+    border-radius: 3px;
+}
+
 .temp {
     color: beige;
 }
