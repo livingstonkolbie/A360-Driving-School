@@ -34,19 +34,6 @@ body {
 }
 
 
-/* Cities Served */
-.cities-served {
-    font-size: smaller;
-    letter-spacing: 1px;
-    color: rgb(135, 135, 255);
-}
-
-.cities-served img {
-    width: 4%;
-}
-
-
-
 /* Hero Section */
 .hero img {
     width: 60%;
@@ -76,8 +63,7 @@ body {
 }
 
 .steps img {
-    width: 50%;
-
+    width: 65%;
 }
 
 .permit p {
@@ -85,13 +71,4 @@ body {
 }
 
 
-/* What's Needed Page*/
 
-.homeIcon {
-    width: 15%;
-    border-radius: 3px;
-}
-
-.temp {
-    color: beige;
-}
