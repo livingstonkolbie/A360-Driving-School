@@ -4,26 +4,33 @@ body {
 }
 
 
-/* Top Bar Desktop */
+/* Top Bar */
 
+.navDropdown {
+    color: beige;
+    font-size: larger;
+    letter-spacing: 1px;
+}
 
-/* Top Bar Mobile */
+.navDropdown:hover {
+    transform: scale(1.1);
+    color: beige;
+}
 
 .topBarDesktop a {
     text-decoration: none;
 }
 
-.igIcon {
-    width: 15%;
-    float: right;
+.studentSuccess {
+    text-align: end;
 }
 
-.mapIcon {
-    width: 20%;
+.studentIcon {
+    width: 12%;
 }
 
-.onlineCourseIcon {
-    width: 15%;
+.studentIcon:hover {
+    transform: scale(1.1);
 }
 
 
@@ -41,18 +48,13 @@ body {
 
 
 /* Hero Section */
-.title img {
-    width: 100%;
-    border-radius: 12px;
-    box-shadow: 0px 0px 19px 2px grey;
+.hero img {
+    width: 60%;
 }
 
-.subtitle p {
-    letter-spacing: 1px;
-    font-size: medium;
-    color: rgba(245, 245, 220, 0.859);
+.hero img:hover {
+    transform: scale(1.1);
 }
-
 
 
 /* Simple Steps! */
