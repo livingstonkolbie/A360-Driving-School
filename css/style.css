@@ -6,6 +6,10 @@ body {
 
 /* Top Bar */
 
+.topButton {
+    margin-left: 3px;
+}
+
 .navDropdown {
     color: beige;
     font-size: larger;
@@ -26,7 +30,7 @@ body {
 }
 
 .studentIcon {
-    width: 12%;
+    width: 20%;
 }
 
 .studentIcon:hover {
@@ -46,6 +50,9 @@ body {
 
 /* Simple Steps! */
 
+.steps a {
+    text-decoration: none;
+}
 
 .stepsRow {
     padding-top: 4%;
@@ -61,12 +68,18 @@ body {
 }
 
 .steps img {
-    width: 65%;
-}
-
-.permit p {
-    color: rgb(255, 117, 66);
+    width: 90%;
 }
 
 
+/* Larger Screens */
 
+@media (min-width: 1020px) {
+
+.navDropdown {
+    color: beige;
+    font-size: x-large;
+    letter-spacing: 1px;
+}
+
+}
