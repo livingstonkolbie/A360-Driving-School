@@ -3,6 +3,10 @@
     color: rgb(92, 27, 255);
 }
 
+.need h3 {
+    color: beige;
+}
+
 .temp h1 {
     color: blueviolet;
 }
