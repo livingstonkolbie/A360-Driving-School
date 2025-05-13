@@ -1,9 +1,10 @@
 
 .forNow {
     font-size: xx-large;
-    color: rgb(92, 27, 255);
+    color: blueviolet;
 }
 
 .future {
-    color: blueviolet;
+    color: rgb(92, 27, 255);
 }
+
