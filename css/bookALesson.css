@@ -1,5 +1,8 @@
 
 .bookLesson h1 {
-    color: blueviolet;
+    color: rgb(92, 27, 255);
 }
 
+.bookLesson h3 {
+    color: blueviolet;
+}
