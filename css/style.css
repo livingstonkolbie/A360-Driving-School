@@ -34,11 +34,11 @@ body {
     text-decoration: none;
 }
 
-.studentSuccess {
+.contact {
     text-align: end;
 }
 
-.studentsIcon {
+.contactIcon {
     width: 20%;
 }
 
@@ -120,7 +120,7 @@ footer p {
     letter-spacing: 1px;
 }
 
-.studentsIcon {
+.contactIcon {
     width: 15%;
 }
 
