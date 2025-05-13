@@ -14,16 +14,19 @@ body {
 .navDropdown {
     /* color: beige; */
     /* color: black; */
-    color: blueviolet;
+    /* color: blueviolet; */
+    color: rgb(92, 27, 255);
     font-size: larger;
     letter-spacing: 1px;
+    margin-left: 5px;
 }
 
 .navDropdown:hover {
     transform: scale(1.1);
     /* color: beige; */
     /* color: black; */
-    color: blueviolet;
+    /* color: blueviolet; */
+    color: rgb(92, 27, 255);
 
 }
 
@@ -68,6 +71,7 @@ body {
 
 .steps h2 {
     color: blueviolet;
+    /* color: rgb(92, 27, 255); */
 }
 
 .steps p {
@@ -110,7 +114,8 @@ footer p {
 .navDropdown {
     /* color: beige; */
     /* color: black; */
-    color: blueviolet;
+    /* color: blueviolet; */
+    color: rgb(92, 27, 255);
     font-size: x-large;
     letter-spacing: 1px;
 }
